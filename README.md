@@ -29,5 +29,6 @@ Image: An image relevant to the case study
 
 * *What is the prognosis for this company? Where do they expect to be in the future?* 
 
+The company's prognosis is profitable; it's one of the big three credit scoring companies in the country. They are already implementing machine learning to assist in analyzing credit scores. They expect to continue to use ML to find nonlinear patterns to determine someone's worthiness of the loan. To continue to be successful, the company needs to be more transparent about how the scores were calculated to customers if a customer is denied or questions how their score was obtained. In the future, they expect to be a cornerstone of credit scoring. 
 
 
