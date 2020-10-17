@@ -19,6 +19,7 @@
 
 
 **What is the background of your company? What do they do? Who are their competitors?**
+Equifax Inc. is an American multinational consumer credit reporting agency and is one of the three largest consumer credit reporting agencies, along with Experian and TransUnion (together known as the "Big Three").[5] Equifax collects and aggregates information on over 800 million individual consumers and more than 88 million businesses worldwide.
 
 Equifax NeuroDecision Technology is a neural network that computes credit scores (a.k.a. credit ratings)
 for individuals, those all-important numbers that determine your fate when you apply for a loan. In the
