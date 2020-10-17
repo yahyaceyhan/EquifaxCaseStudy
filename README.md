@@ -20,8 +20,25 @@ Image: An image relevant to the case study
 
 * *What is the background of your company? What do they do? Who are their competitors?*
 
+Equifax NeuroDecision Technology is a neural network that computes credit scores (a.k.a. credit ratings)
+for individuals, those all-important numbers that determine your fate when you apply for a loan. In the
+past, neural network models have been used for credit scoring much less than might be expected, given
+their ability to identify the non-linear relationships in typical inputs to scoring models. This is because the
+basis on which traditional neural networks generate their results is not readily explainable, a situation that
+regulators, such as the U.S. Consumer Financial Protection Bureau and the European General Data
+Protection Regulation, find unacceptable. Equifax’s technology offers the power of a well trained neural
+net, but one with the ability to explain its decision making.
 
 * *How does this company use technology to their advantage? Why are they considered a FinTech company?*
+
+In the past, such scores were
+computed via logistic regression, a technique that attempts to partition the data using linear functions.
+However, nonlinear relationships are embedded in the data that might predict the likelihood of defaulting
+on, say, credit card debt (Such an example might be the relationship between income and default
+probability: once income gets above a certain level, people are less likely to have to choose between
+credit card payments and feeding their children.). Neural nets certainly solve this problem, but they do so
+by “learning” an obscure and nonlinear weighting scheme. NeuroDecision technology attempts to
+identify the reasons why its neural net’s calculations turn out the way they do.
 
 
 * *Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?*
