@@ -1,34 +1,33 @@
-# EquifaxCaseStudy
+# **Equifax NeuroDecision Technology**
 
 Image: An image relevant to the case study
 
 
-H2 description: A description header
+## A short study on Equifax new technology
 
 
-Description content: Content for the description
+### Description content: 
 
 
-Contributors: 
+### Contributors:  Mauricio Rodriguez, Freddie Eeisa, Yahya Ceyhan
 
 
 
-H3 heading: A title for the FinTech case study report
+#### *You can have more information about this technology under the questions below:
 
 
-Case study content: Content for the case study
 
 
-What is the background of your company? What do they do? Who are their competitors?
+* *What is the background of your company? What do they do? Who are their competitors?*
 
 
-How does this company use technology to their advantage? Why are they considered a FinTech company?
+* *How does this company use technology to their advantage? Why are they considered a FinTech company?*
 
 
-Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+* *Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?*
+    Equifax is one of the “big three” credit rating agencies, each of which provide prospective lenders with a numerical score that indicates the credit worthiness of just about any prospective U.S. borrower. 
 
-
-What is the prognosis for this company? Where do they expect to be in the future?
+* *What is the prognosis for this company? Where do they expect to be in the future?* 
 
 
 
