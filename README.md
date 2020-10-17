@@ -1,6 +1,6 @@
 # **Equifax NeuroDecision Technology**
 
-Image: An image relevant to the case study
+![](https://can2-prod.s3.amazonaws.com/petitions/photos/000/067/834/original/equifax.jpeg)
 
 
 ## A short study on Equifax new technology
