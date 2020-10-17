@@ -9,7 +9,7 @@ Image: An image relevant to the case study
 ### Description content: 
 
 
-### Contributors:  Mauricio Rodriguez, Freddie Eeisa, Yahya Ceyhan
+### Contributors:  Mauricio Rodriguez, Freddie Eisa, Yahya Ceyhan
 
 
 
