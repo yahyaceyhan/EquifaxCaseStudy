@@ -43,6 +43,9 @@ identify the reasons why its neural net’s calculations turn out the way they d
 
 **Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?**
     Equifax is one of the “big three” credit rating agencies, each of which provide prospective lenders with a numerical score that indicates the credit worthiness of just about any prospective U.S. borrower. 
+    Neural nets certainly solve this problem, but they do so
+by “learning” an obscure and nonlinear weighting scheme. NeuroDecision technology attempts to
+identify the reasons why its neural net’s calculations turn out the way they do
 
 **What is the prognosis for this company? Where do they expect to be in the future?**
 
